@@ -1,0 +1,2 @@
+- Equations of motion of the system:
+	- :
