@@ -1,0 +1,1 @@
+[[Newton Euler Method]] : its a iterative process
