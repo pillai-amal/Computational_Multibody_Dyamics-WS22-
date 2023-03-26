@@ -1,0 +1,2 @@
+- M(q) : mass matrix
+- h(t,q,u) : total generalized forces of the system
