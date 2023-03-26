@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: PyCMD
+Version: 4.2
+Summary: Computational multibody dynamics - exercise 4.2
+Author: Giuseppe Capobianco
+Author-email: giuseppe.capobianco@fau.de
+Requires-Python: >=3.8
