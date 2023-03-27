@@ -1,0 +1,15 @@
+4.1 [[Euler Explicit]]
+			- General Pendulam on a cart steps #followthecode [[pendulam_on_cart.py]]
+				- Define the system properties 
+					- mass, inertia tensor 
+					- the intial condtions 
+				- Create the necessay multibody by calling the System class [1]
+				- add the cart via linear guidance 
+				- To above system class [1] add the cart (via linear guidance) and the pendulum (via revolute joint) and gravity (via Force)
+				- _assemble_ the above using the assemble function of System class [1]
+ - Implementations of Mass Matrix M(q) and generalized forces h(t,q,u) as python functions  
+- Simulation 
+	- initialization of solver
+		- the time step 
+		- final time 
+	- Call the solver with the assembled system the discrite timestep and the final time. 
