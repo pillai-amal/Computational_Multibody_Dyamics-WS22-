@@ -1,0 +1,2 @@
+Q. What are natural rdinates and what are relative coordinates ? #definition
+	Natural coordinates refer to postion and orientation of a an object with refrence to a fixed frame. It can be either the global coordinates or the base of the ronot. The natural cordinates will not change with motion of the robot.  
