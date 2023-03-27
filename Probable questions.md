@@ -3,6 +3,6 @@ Q. What are natural rdinates and what are relative coordinates ? #definition
 	Relative Coordinate/ Local Cordiante of the system refers to the postion and the orientation of object or part of robot in reference to local coordinate of the sytem. It is useful in decribing the postion the position of a joint with respect to parent joint. #definition 
 
 Q. Explain the Recursive Kinematic Algo.
-	#explain (imagine the 3 linked body) to compute $$ J_{3} , J_{2} $$ has to be calculated. For $$ J_{2} , J_{1} has to be calculated. 
+	#explain (imagine the 3 linked body) to compute $$ J_{3} , J_{2} $$ has to be calculated. For $$ J_{2} , J_{1} $$ has to be calculated. 
 	Therefore the mass matrix
-	$$ M = m_{1}.(J_{s1})^{T} + 
+	$$ M = m_{1}.(J_{s1})^{T}. J_{s1} + $$
