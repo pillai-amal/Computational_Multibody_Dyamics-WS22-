@@ -5,4 +5,4 @@ Q. What are natural rdinates and what are relative coordinates ? #definition
 Q. Explain the Recursive Kinematic Algo.
 	#explain (imagine the 3 linked body) to compute $$ J_{3} , J_{2} $$ has to be calculated. For $$ J_{2} , J_{1} has to be calculated. 
 	Therefore the mass matrix
-	$$ M = m_{1}.(J_{s1})^{T} + 
+	$$ M = m_{1}.(J_{s1})^{T} + m_{2}.(J_{s2})^{T} + m_{2}.(J_{s2})^{T} $$
