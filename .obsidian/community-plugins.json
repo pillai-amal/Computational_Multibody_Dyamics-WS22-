@@ -1,4 +1,7 @@
 [
   "obsidian-latex",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "obsidian-kanban",
+  "obsidian-git",
+  "dataview"
 ]

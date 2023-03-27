@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a2c58fb638c3b814","x":-420,"y":-460,"width":250,"height":300,"type":"text","text":"To Dos\n```dataview\nlist from #todo \n```\n- [ ] Connectivity Matrix -  and how it is implimented in it  #todo \n- [ ] "},
+		{"id":"737db35abac83efd","x":-49,"y":-298,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"bee9bb7b1a0511b0","fromNode":"a2c58fb638c3b814","fromSide":"right","toNode":"737db35abac83efd","toSide":"left"}
+	]
+}

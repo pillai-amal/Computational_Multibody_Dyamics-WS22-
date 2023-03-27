@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14c70d4dc71929b1",
+        "id": "7bfddb6be6a9518f",
         "type": "tabs",
         "children": [
           {
-            "id": "2dfce444cc3d465b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9 IK and Inverse Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b96f226dd11b7f37",
+            "id": "96a0b5e7096fdedd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,14 +20,19 @@
             }
           },
           {
-            "id": "40107785a7c9c14b",
+            "id": "be90e687d0a02cce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MathematisheGrundlagen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,10 +61,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todos",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -85,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 IK and Inverse Dynamics.md",
+                "file": "MathematisheGrundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 IK and Inverse Dynamics.md",
+                "file": "MathematisheGrundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 IK and Inverse Dynamics.md"
+                "file": "MathematisheGrundlagen.md"
               }
             }
           },
@@ -175,13 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dfce444cc3d465b",
+  "active": "be90e687d0a02cce",
   "lastOpenFiles": [
+    "CMD_Solutions_to_Exercises.pdf",
+    "CMD_Exercises.pdf",
+    "Newton's Method.md",
+    "MathematisheGrundlagen.md",
     "todo.md",
-    "9 IK and Inverse Dynamics.md",
-    "2023-03-25.md",
-    "8 Parameterization of Rotations.md",
+    "Chart.canvas",
     "Numerical Optimization Methods.md",
-    "Newton's Method.md"
+    "Important qestions to prepare.md",
+    "5 Model assembly and code strucutre.md",
+    "9 IK and Inverse Dynamics.md",
+    "8 Parameterization of Rotations.md",
+    "Excersises Solutions - Theory.md",
+    "Lecturenotespdf.pdf",
+    "Notations.md",
+    "2023-03-25.md"
   ]
 }
